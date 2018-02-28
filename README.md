@@ -1,6 +1,8 @@
+[🔥 Download App](https://github.com/escherwd/simpleCrypt/releases)
+
 # simpleCrypt
 A super simple encrypter and decrypter for plain text for macOS (10.10+)
-[Compiled Releases](https://github.com/escherwd/simpleCrypt/releases)
+
 
 __This is just a basic idea in code form. The "encryption" (and I use that word loosely) process goes something like this:__
 * User inputs text and codeword
