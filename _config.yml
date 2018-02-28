@@ -4,5 +4,5 @@ github:
   zip_url: https://github.com/escherwd/simpleCrypt/releases
   tar_url: https://github.com/escherwd/simpleCrypt/releases
   project_title: simpleCrypt
-  project_description: A simple text encypter/decrypter for macOS
-  
+  project_tagline: A simple text encypter/decrypter for macOS
+  releases_url: https://github.com/escherwd/simpleCrypt/releases
