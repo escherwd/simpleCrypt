@@ -2,4 +2,7 @@ theme: jekyll-theme-cayman
 show_downloads: true
 github:
   zip_url: https://github.com/escherwd/simpleCrypt/releases
-  another_url: https://github.com/escherwd/simpleCrypt/releases
+  tar_url: https://github.com/escherwd/simpleCrypt/releases
+  project_title: simpleCrypt
+  project_description: A simple text encypter/decrypter for macOS
+  
