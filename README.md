@@ -1,5 +1,3 @@
-[🔥 Download App](https://github.com/escherwd/simpleCrypt/releases)
-
 # simpleCrypt
 A super simple encrypter and decrypter for plain text for macOS (10.10+)
 
