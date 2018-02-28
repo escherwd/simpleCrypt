@@ -1,2 +1,4 @@
 theme: jekyll-theme-cayman
 show_downloads: true
+github:
+  zip_url: https://github.com/escherwd/simpleCrypt/releases/download/v1.0/simpleCrypt.zip
